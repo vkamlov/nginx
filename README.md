@@ -1,0 +1,2 @@
+# nginx
+Configuration for nginx
